@@ -1,8 +1,6 @@
 name: Update Biocontainers
 
 on:
-  # For testing only
-  pull_request: []
   schedule:
   - cron: '0 0 * * 4'
 
